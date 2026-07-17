@@ -10,9 +10,6 @@ Hi! I'm Pramod Reddy<br>Student at Keshav Memorial College of Engineering<br><br
 ![](https://nirzak-streak-stats.vercel.app/?user=PramodGit2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodGit2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PramodGit2006&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
