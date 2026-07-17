@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Pramod Reddy<br>Student at Keshav Memorial College of Engineering<br><br>I'm currently working on LLM models which integrate unique tasks<br>I'm looking for help with understanding and implementing LAM's<br>I'm currently learning the various possibilities of extravagent features that can be integrated with LLM's also the generative models that help in research applications<br>Be blunt about any advice you would like to give<br>The catch is i don't usually catch all the advices :)
+Hi! I'm Pramod Reddy<br>Student at Keshav Memorial College of Engineering<br><br>I'm currently working on LLM and learning more about Agentic AI models which integrate unique tasks<br>I'm looking for help with understanding and implementing LAM's<br>I'm currently learning the various possibilities of extravagent features that can be integrated with LLM's also the generative models that help in research applications<br>Be blunt about any advice you would like to give<br>The catch is i don't usually catch all the advices :)
 
 
 ## 🌐 Socials:
